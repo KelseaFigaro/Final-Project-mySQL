@@ -6,7 +6,7 @@ ProjectTables(1).sql- SQL script containing create table and insert statements
 
 ProjectSQL(1).xlsx- Data Dictionary
 
-Project.drawio- ERD of the database
+Project(1).drawio- ERD of the database
 
 Finalproject.pptx- Powerpoint presentation of the project
 
